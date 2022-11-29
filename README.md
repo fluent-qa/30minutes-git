@@ -13,3 +13,4 @@ GIT 30 Minutes
 
 - git branch 
 - git checkout
+- git pull origin feat/remote-branch
