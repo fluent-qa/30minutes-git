@@ -47,3 +47,8 @@ git clone --help
 ![img](./git-puss.jpg)
 ![img](./git-meowge.jpg)
 ![img](./git-cherry-pick.jpg)
+
+
+## Github Reference
+
+- [connect-the-dots](https://github.com/skills/connect-the-dots)
