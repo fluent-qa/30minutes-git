@@ -51,4 +51,4 @@ git clone --help
 
 ## Github Reference
 
-- [connect-the-dots](https://github.com/skills/connect-the-dots)
+- [connect-the-dots](https://github.com/skills/connect-the-dots)https://www.git-tower.com/learn
